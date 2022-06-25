@@ -1,1 +1,1 @@
-# A blockchain implementation in Go
+# A blockchain implementation in Go w/ Proof Of Work
